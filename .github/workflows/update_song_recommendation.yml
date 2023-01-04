@@ -1,0 +1,29 @@
+name: Update Song Recommendation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update_song:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Install jq
+      run: sudo apt-get install jq -y
+
+    - name: Update Anime
+      run: |
+        chmod +x src/update_song_recommendation.sh
+        ./src/update_song_recommendation.sh
+
+    - name: Commit
+      uses: actions-x/commit@v6
+      with:
+        name: ${{secrets.NAME}}
+        email: ${{secrets.EMAIL}}
+        files: README.md
+        message: Update song recommendation
