@@ -12,18 +12,23 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: Install jq
-      run: sudo apt-get install jq -y
-
-    - name: Update Anime
+    - name: Use Node.js 16
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - name: npm install
+    - name: Run script
+      env:
+        CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+        CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
       run: |
-        chmod +x src/update_song_recommendation.sh
-        ./src/update_song_recommendation.sh
+        chmod +x update_readme.sh
+        .update_readme.sh
 
     - name: Commit
       uses: actions-x/commit@v6
       with:
-        name: ${{secrets.NAME}}
-        email: ${{secrets.EMAIL}}
+        name: ${{ secrets.BOT_NAME }}
+        email: ${{ secrets.BOT_EMAIL }}
         files: README.md
         message: Update song recommendation
