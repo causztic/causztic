@@ -12,7 +12,7 @@ export const getToken = async () => {
     'https://accounts.spotify.com/api/token', {
     method: 'POST',
     headers: {
-      'Authorization': 'Basic ' + Buffer.from(client_id + ':' + client_secret).toString('base64')
+      'Authorization': 'Basic ' + Buffer.from(CLIENT_ID + ':' + CLIENT_SECRET).toString('base64')
     },
     body: params
   });

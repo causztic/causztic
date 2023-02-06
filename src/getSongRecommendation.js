@@ -37,6 +37,10 @@ export default async (token) => {
   const result = data.items[0];
   const artists = result.track.artists.map((artist) => artist.name).join(', ');
 
-  // format to markdow
-  return `![${result.track.name}](${result.track.album.images[0].url}) ${result.track.name} - ${artists} from ${result.track.album.name}`
+  return (
+    "<figure>" +
+    `<img src="${result.track.album.images[0].url}" alt="${result.track.name}" />` +
+    `<figcaption align="center"><a href="${result.track.external_urls.spotify}" target="_blank">${result.track.name}</a> - ${artists} from ${result.track.album.name}</figcaption>` +
+    "</figure>"
+  )
 }
