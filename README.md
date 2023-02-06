@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img src="https://i.scdn.co/image/ab67616d0000b2733435816b3272652472e5aa53" alt="Love Like A Bomb (feat. ひかり)" /><figcaption align="center"><a href="https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p" target="_blank">Love Like A Bomb (feat. ひかり)</a> - Tokimeki Records, ひかり from 透明なガール</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2738b2fbf05dabceea3a0513496" alt="終点" /><figcaption align="center"><a href="https://open.spotify.com/track/3r6CCH8NUOxGSsMYuNlXCT" target="_blank">終点</a> - DUSTCELL from SUMMIT</figcaption></figure>
