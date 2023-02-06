@@ -24,7 +24,7 @@ jobs:
         CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
       run: |
         chmod +x update_readme.sh
-        .update_readme.sh
+        ./update_readme.sh
 
     - name: Commit
       uses: actions-x/commit@v6
