@@ -39,7 +39,7 @@ export default async (token) => {
 
   return (
     "<figure>" +
-    `<img src="${result.track.album.images[0].url}" alt="${result.track.name}" />` +
+    `<img width="300" height="300" src="${result.track.album.images[0].url}" alt="${result.track.name}" />` +
     `<figcaption align="center"><a href="${result.track.external_urls.spotify}" target="_blank">${result.track.name}</a> - ${artists} from ${result.track.album.name}</figcaption>` +
     "</figure>"
   )
