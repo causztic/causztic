@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273a112e333cf0de13700b4df8d" alt="偽りのシンパシー - [Vocal:アイナ・ジ・エンド(BiSH)]" /><figcaption align="center"><a href="https://open.spotify.com/track/2AkkZMgRJupzY7fzbH3olm" target="_blank">偽りのシンパシー - [Vocal:アイナ・ジ・エンド(BiSH)]</a> - Mondo Grosso, AiNA THE END from 偽りのシンパシー [Vocal:アイナ・ジ・エンド(BiSH)]</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273900a0ac082b6365cedbb6921" alt="I beg you" /><figcaption align="center"><a href="https://open.spotify.com/track/2zjcMpfEkRy17HH7lDEFCH" target="_blank">I beg you</a> - Aimer from Penny Rain</figcaption></figure>
