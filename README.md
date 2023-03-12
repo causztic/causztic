@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273cae0b795b29578787a7dd05b" alt="PEANUTS" /><figcaption align="center"><a href="https://open.spotify.com/track/2iO6RVGQAC8lASp8yVJtnF" target="_blank">PEANUTS</a> - Aco Kawai from PEANUTS</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273189e41798cd255d340b21be9" alt="Prisoner Of Love" /><figcaption align="center"><a href="https://open.spotify.com/track/4a9xOJC6kgknv7cU4D99Ha" target="_blank">Prisoner Of Love</a> - Hikaru Utada from HEART STATION</figcaption></figure>
