@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273fc0e923264144da5568842fe" alt="細胞" /><figcaption align="center"><a href="https://open.spotify.com/track/5m31wrZP59yWVyy3ZARZjf" target="_blank">細胞</a> - nowisee from 細胞</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2736c657a3626de77b58e1bbd02" alt="Spotlight" /><figcaption align="center"><a href="https://open.spotify.com/track/2GwDA6KvANMLYETLsBj9SE" target="_blank">Spotlight</a> - MOTTO MUSIC, Yunosuke, WaMi from Sweets.</figcaption></figure>
