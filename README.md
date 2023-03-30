@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b27360c70f9ddf8f4cc622af023a" alt="not the end" /><figcaption align="center"><a href="https://open.spotify.com/track/2Y3oPFw7W1eVmWSdz8vjPn" target="_blank">not the end</a> - nowisee from not the end</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273dd2353c1a30532e151abf29c" alt="Late summer waves" /><figcaption align="center"><a href="https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu" target="_blank">Late summer waves</a> - 7co from Late summer waves</figcaption></figure>
