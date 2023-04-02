@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2737b1758089492ca74cec0f157" alt="パラノイア" /><figcaption align="center"><a href="https://open.spotify.com/track/0GdRsO3L5MgARx2Kxptqzx" target="_blank">パラノイア</a> - majiko from ひび割れた世界</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273637f66657f614deebad784ef" alt="Wonderland" /><figcaption align="center"><a href="https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i" target="_blank">Wonderland</a> - iri from Shade</figcaption></figure>
