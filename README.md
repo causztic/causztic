@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273637f66657f614deebad784ef" alt="Wonderland" /><figcaption align="center"><a href="https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i" target="_blank">Wonderland</a> - iri from Shade</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273775c95b0af48cc16a322ac33" alt="Hikari" /><figcaption align="center"><a href="https://open.spotify.com/track/5FrXnI0DH9vPwtja7Ky7hT" target="_blank">Hikari</a> - Photon Maiden from 4 Challenges</figcaption></figure>
