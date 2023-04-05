@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273ed05379c134cb62960d87c6e" alt="ゴーストの君" /><figcaption align="center"><a href="https://open.spotify.com/track/2LKWUkxEwSMnNtHovhhbEJ" target="_blank">ゴーストの君</a> - 水槽 from ゴーストの君</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273cbe8519589301c1ebd734900" alt="The Little Mermaid" /><figcaption align="center"><a href="https://open.spotify.com/track/5KHHJ5NRm9CkF6JD2HQVe2" target="_blank">The Little Mermaid</a> - Maiko Fujita from Wasurerarenai Hito</figcaption></figure>
