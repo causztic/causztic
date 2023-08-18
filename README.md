@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273daa8bb98821f2b8aefe4e66c" alt="銀河鉄道の夜に" /><figcaption align="center"><a href="https://open.spotify.com/track/7k9qY4CHkajdb9Lkb6J2nj" target="_blank">銀河鉄道の夜に</a> by Lyrical Lily</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273001a70d8c6c051df1868007e" alt="Fantasy" /><figcaption align="center"><a href="https://open.spotify.com/track/0BR9RPnOVsv2RzDTRiyEOp" target="_blank">Fantasy</a> by LAMA</figcaption></figure>
