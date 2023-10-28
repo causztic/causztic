@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2739965d32a82424cfbde1c1a54" alt="ストロベリームーン" /><figcaption align="center"><a href="https://open.spotify.com/track/6OB8OXyLJwvIg6YMXt33uJ" target="_blank">ストロベリームーン</a> by Daoko</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b27386ad43a280a0af8d7e4fbc0d" alt="激白" /><figcaption align="center"><a href="https://open.spotify.com/track/6f0nePKuRRQFfLeROOkt7F" target="_blank">激白</a> by Reol</figcaption></figure>
