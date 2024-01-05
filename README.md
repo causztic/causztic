@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273dd2353c1a30532e151abf29c" alt="Late summer waves" /><figcaption align="center"><a href="https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu" target="_blank">Late summer waves</a> by 7co</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273b78e0d1979b1c72c455ec85b" alt="Abyssal Zone" /><figcaption align="center"><a href="https://open.spotify.com/track/7x5gRQJ6LJQ0MRXzUFlCVr" target="_blank">Abyssal Zone</a> by Nornis</figcaption></figure>
