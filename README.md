@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273dd0d4b9eed6ec0a62f1f7ffe" alt="あなたはさよならをここに置いていった" /><figcaption align="center"><a href="https://open.spotify.com/track/6N0T4TmXhocfmKQFG8mfYY" target="_blank">あなたはさよならをここに置いていった</a> by クレナズム</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2731b5153a53dfb065ff648b66a" alt="Black Glow" /><figcaption align="center"><a href="https://open.spotify.com/track/32zXRIjEVUOgrLx9hmWfw8" target="_blank">Black Glow</a> by Albemuth</figcaption></figure>
