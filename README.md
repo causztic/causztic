@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2732475099390ec5e6487256925" alt="夜行" /><figcaption align="center"><a href="https://open.spotify.com/track/1sPu1euMR0UlTMFFWHh4wB" target="_blank">夜行</a> by ヨルシカ</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b27315fb8bbb558441a045fbc281" alt="DICE" /><figcaption align="center"><a href="https://open.spotify.com/track/26P0PvxuRYcgzxeHZ4rjD0" target="_blank">DICE</a> by BAND-MAID</figcaption></figure>
