@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2736c657a3626de77b58e1bbd02" alt="Spotlight" /><figcaption align="center"><a href="https://open.spotify.com/track/2GwDA6KvANMLYETLsBj9SE" target="_blank">Spotlight</a> by MOTTO MUSIC, Yunosuke, WaMi</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2733435816b3272652472e5aa53" alt="Love Like A Bomb (feat. ひかり)" /><figcaption align="center"><a href="https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p" target="_blank">Love Like A Bomb (feat. ひかり)</a> by Tokimeki Records, ひかり</figcaption></figure>
