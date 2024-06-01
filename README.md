@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2731d50c3ee50779749572e8266" alt="決まりごと - Version 2020" /><figcaption align="center"><a href="https://open.spotify.com/track/6OL7D4MetImNAYLrehvl9v" target="_blank">決まりごと - Version 2020</a> by BRATS</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273fd2998419df6d397bd85139e" alt="Freely" /><figcaption align="center"><a href="https://open.spotify.com/track/2cwWpqeqPlRR4W8NP5DFgy" target="_blank">Freely</a> by PassCode</figcaption></figure>
