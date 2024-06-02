@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273fd2998419df6d397bd85139e" alt="Freely" /><figcaption align="center"><a href="https://open.spotify.com/track/2cwWpqeqPlRR4W8NP5DFgy" target="_blank">Freely</a> by PassCode</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273e192db03c0db78e0eead6114" alt="ホロネス" /><figcaption align="center"><a href="https://open.spotify.com/track/4FAUrZ8wdf8mV202FcEgn6" target="_blank">ホロネス</a> by 美波</figcaption></figure>
