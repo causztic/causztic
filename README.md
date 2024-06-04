@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b27388ac004c27a1b2768c3651b2" alt="After Rain -Scarlet ver.-" /><figcaption align="center"><a href="https://open.spotify.com/track/3GXjcNadFcaqYduQQgJcV9" target="_blank">After Rain -Scarlet ver.-</a> by Aimer</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b27300397ad0dd68d957b6ba65af" alt="Rainy Friday" /><figcaption align="center"><a href="https://open.spotify.com/track/1ifQvoEOZNVCN9kakkysda" target="_blank">Rainy Friday</a> by CHANMINA</figcaption></figure>
