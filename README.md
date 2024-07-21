@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2735919994688f7b3b7f799800e" alt="act" /><figcaption align="center"><a href="https://open.spotify.com/track/4Zn3ETPuiF1gWOMD8vuBhT" target="_blank">act</a> by nowisee</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2733435816b3272652472e5aa53" alt="Love Like A Bomb (feat. ひかり)" /><figcaption align="center"><a href="https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p" target="_blank">Love Like A Bomb (feat. ひかり)</a> by Tokimeki Records, ひかり</figcaption></figure>
