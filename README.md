@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2734663b30ec48a134bea69ff07" alt="神様" /><figcaption align="center"><a href="https://open.spotify.com/track/53Lwc6BcRryRgyLDgIqX9l" target="_blank">神様</a> by FLOWER FLOWER</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273cc65675e848daa12a693facd" alt="NOD" /><figcaption align="center"><a href="https://open.spotify.com/track/2t5BsR1Q9xP3O7RSs5NNLe" target="_blank">NOD</a> by SennaRin</figcaption></figure>
