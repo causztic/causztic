@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2734d0fb5b5d49c879a5cfed01e" alt="LOST IN PARADISE" /><figcaption align="center"><a href="https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX" target="_blank">LOST IN PARADISE</a> by ALI, AKLO</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2734e00f6dd16c51ba047fb4c91" alt="Iron Mayday (feat. nene)" /><figcaption align="center"><a href="https://open.spotify.com/track/4jAwL6ccHPhBcSqytPQNQk" target="_blank">Iron Mayday (feat. nene)</a> by 他人事, nene</figcaption></figure>
