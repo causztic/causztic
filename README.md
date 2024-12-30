@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b27329ecdbf196380869aafe5c00" alt="False Salvation" /><figcaption align="center"><a href="https://open.spotify.com/track/4fbkQXWNByTpviX70JIVlD" target="_blank">False Salvation</a> by SERRA</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2733ec18cbf0bc4fa2aacc4a144" alt="Wicked feat. Mori Calliope" /><figcaption align="center"><a href="https://open.spotify.com/track/2F91gzFzuZcfX5NwU34cZw" target="_blank">Wicked feat. Mori Calliope</a> by Hoshimachi Suisei, Mori Calliope</figcaption></figure>
