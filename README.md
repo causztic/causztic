@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2734ff8b5e99d99ad70b670024b" alt="刹那の人魚姫～Heart break mermaid～ - Full Spec Edition" /><figcaption align="center"><a href="https://open.spotify.com/track/7519s7yaJNhvRV1QcVFfcn" target="_blank">刹那の人魚姫～Heart break mermaid～ - Full Spec Edition</a> by 千佳, 彩也香</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273cd47c663176480b2cfdfd542" alt="ハウる" /><figcaption align="center"><a href="https://open.spotify.com/track/1SZEsFXwX28kPcL2EBa2lZ" target="_blank">ハウる</a> by Kuhakugokko</figcaption></figure>
