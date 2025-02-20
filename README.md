@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2730767e03fc8d08de2b539cca3" alt="アンノウン・マザーグース - in the case of Lezel" /><figcaption align="center"><a href="https://open.spotify.com/track/1jY0Q8vWPQslNEQ75NdVT7" target="_blank">アンノウン・マザーグース - in the case of Lezel</a> by Lezel</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2738508d6e185a2accb82ca13d0" alt="花の唄 end of spring ver." /><figcaption align="center"><a href="https://open.spotify.com/track/1lhLfwG7QLAhvBLZHX5tDJ" target="_blank">花の唄 end of spring ver.</a> by Aimer</figcaption></figure>
