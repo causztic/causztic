@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273097ad4bcf6c0d062ec95908f" alt="Believing and Being (feat. ina)" /><figcaption align="center"><a href="https://open.spotify.com/track/3O5xf8zvs03YRSStNRhgfu" target="_blank">Believing and Being (feat. ina)</a> by 他人事, Ina</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273e29e4d7def1ccff6e37756ce" alt="嘘をつく唇" /><figcaption align="center"><a href="https://open.spotify.com/track/4UiQo7muoVWeJYK93OT46Y" target="_blank">嘘をつく唇</a> by Tokyo Ska Paradise Orchestra, Rina Katahira</figcaption></figure>
