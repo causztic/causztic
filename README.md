@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b27357335e1c8cd521ca56b709d8" alt="僕らはそれを愛と呼んだ" /><figcaption align="center"><a href="https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh" target="_blank">僕らはそれを愛と呼んだ</a> by Atarayo</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b27333881cc1f5944a94d274be1b" alt="AWAKE" /><figcaption align="center"><a href="https://open.spotify.com/track/7LSOTAk2XedRDne9QvIV38" target="_blank">AWAKE</a> by Hoshimachi Suisei</figcaption></figure>
