@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2737d8d6b3519a88faf96c84dc2" alt="Mint for Two" /><figcaption align="center"><a href="https://open.spotify.com/track/05ahuYOq45w60KxwQ9S9IR" target="_blank">Mint for Two</a> by redraw</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273053503b6ecb3316c49f291a0" alt="Mad Hatter" /><figcaption align="center"><a href="https://open.spotify.com/track/0Nga2v2XGHYVTEHLWEmiyT" target="_blank">Mad Hatter</a> by DUSTCELL</figcaption></figure>
