@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273ecabdc208681518e513763dd" alt="星降る丘へ" /><figcaption align="center"><a href="https://open.spotify.com/track/63qcQWAvCx5ihdd5zVns10" target="_blank">星降る丘へ</a> by Astrow</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b27380b034fcb0ee1d2de095d060" alt="Ash flame (Remaster for 星の消えた夜に 2022)" /><figcaption align="center"><a href="https://open.spotify.com/track/5R5An63ZEmCLqdbkxmTlvg" target="_blank">Ash flame (Remaster for 星の消えた夜に 2022)</a> by Aimer</figcaption></figure>
