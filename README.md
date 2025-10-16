@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b27380b034fcb0ee1d2de095d060" alt="Ash flame (Remaster for 星の消えた夜に 2022)" /><figcaption align="center"><a href="https://open.spotify.com/track/5R5An63ZEmCLqdbkxmTlvg" target="_blank">Ash flame (Remaster for 星の消えた夜に 2022)</a> by Aimer</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2739fde50911d19f4a1c33e3c38" alt="Mermaid" /><figcaption align="center"><a href="https://open.spotify.com/track/2Dvu84GT3EHPdCh7cOLrC8" target="_blank">Mermaid</a> by WEDNESDAY CAMPANELLA</figcaption></figure>
