@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273fc48b2fc0503c1cbb9c905b8" alt="暗く黒く" /><figcaption align="center"><a href="https://open.spotify.com/track/3IzKR3VsEZ7aWXhGAapMyO" target="_blank">暗く黒く</a> by ZUTOMAYO</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273ca126c9f954104ada739c7fe" alt="BANDAGE" /><figcaption align="center"><a href="https://open.spotify.com/track/14A4jC5UJzjqr8nWW5jFqe" target="_blank">BANDAGE</a> by Ayumu Imazu</figcaption></figure>
