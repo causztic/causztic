@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273174f9c75eebcfacb1cfcb0ea" alt="1,000,000 TIMES feat. chelly (EGOIST)" /><figcaption align="center"><a href="https://open.spotify.com/track/3dVMeI08Of33bjSELmtSqq" target="_blank">1,000,000 TIMES feat. chelly (EGOIST)</a> by MY FIRST STORY, chelly (EGOIST)</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2731c69034e7d1227557287f7f4" alt="BALALAIKA" /><figcaption align="center"><a href="https://open.spotify.com/track/5jmPdv7WGoWm5KeRM1WIAf" target="_blank">BALALAIKA</a> by 9Lana</figcaption></figure>
