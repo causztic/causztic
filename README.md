@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273c41c331e73598de7dd32e788" alt="プルートー - ALBUM ver." /><figcaption align="center"><a href="https://open.spotify.com/track/7DuF0NYGflGmUMzHMGx7g7" target="_blank">プルートー - ALBUM ver.</a> by CLAN QUEEN</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b27370e7363795cd4644087bd510" alt="FAVE" /><figcaption align="center"><a href="https://open.spotify.com/track/43QqdVmrdr8OvfFt9DJBoC" target="_blank">FAVE</a> by SawanoHiroyuki[nZk], AiNA THE END</figcaption></figure>
