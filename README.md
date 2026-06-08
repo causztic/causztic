@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273498d5e9aedf14dbeaaec3ce3" alt="Ash flame - Remaster for 星の消えた夜に 2022" /><figcaption align="center"><a href="https://open.spotify.com/track/5R5An63ZEmCLqdbkxmTlvg" target="_blank">Ash flame - Remaster for 星の消えた夜に 2022</a> by Aimer</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2732ee91ee55d6c4078398d2971" alt="Spiral" /><figcaption align="center"><a href="https://open.spotify.com/track/3o7kZr4EHYoh7fnYu0Cxnt" target="_blank">Spiral</a> by 明透</figcaption></figure>
