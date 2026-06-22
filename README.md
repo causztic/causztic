@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273a9ce0234b99bec5df27eff4f" alt="夏霞" /><figcaption align="center"><a href="https://open.spotify.com/track/34jv2mOVzPjncrBncjYl6F" target="_blank">夏霞</a> by Atarayo</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b27318ad580221068d12909a1ea5" alt="夢のレイニー" /><figcaption align="center"><a href="https://open.spotify.com/track/5Ju7GmtxNNSuvc1wOzm1gM" target="_blank">夢のレイニー</a> by edda</figcaption></figure>
