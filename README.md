@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2731c57bdb7c04f2019c1145f5b" alt="INCIDENT" /><figcaption align="center"><a href="https://open.spotify.com/track/5NQ4AYJ61TW5fFjcT51FUW" target="_blank">INCIDENT</a> by suisoh, yowa</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273b69b3bb4e919e862b5781df4" alt="Chain of Emotions" /><figcaption align="center"><a href="https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S" target="_blank">Chain of Emotions</a> by The Winking Owl</figcaption></figure>
