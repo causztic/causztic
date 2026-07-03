@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b273b78e0d1979b1c72c455ec85b" alt="Abyssal Zone" /><figcaption align="center"><a href="https://open.spotify.com/track/7x5gRQJ6LJQ0MRXzUFlCVr" target="_blank">Abyssal Zone</a> by Nornis</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2737568e41ca3af002e2ce29a4d" alt="EKABO" /><figcaption align="center"><a href="https://open.spotify.com/track/30Sz6eaZXCa5oXLqXXxilM" target="_blank">EKABO</a> by KureiYuki's, DAZBEE</figcaption></figure>
