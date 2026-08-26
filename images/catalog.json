@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "puzzles": [
+    {
+      "date": "2026-08-27",
+      "filename": "2026-08-27.webp",
+      "sha256": "9cde116d545cd89a0ceb9001461e83209887d7497805fe7d1da7d2df30a07d50",
+      "bytes": 168922
+    },
+    {
+      "date": "2026-08-26",
+      "filename": "2026-08-26.webp",
+      "sha256": "63f89f563a4ac5b372449d2e80cc6a70c00178e902fcb730a4d0e2f5ce0adb35",
+      "bytes": 216694
+    }
+  ]
+}
