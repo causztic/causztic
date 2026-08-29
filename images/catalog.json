@@ -2,6 +2,12 @@
   "schema_version": 1,
   "puzzles": [
     {
+      "date": "2026-08-29",
+      "filename": "2026-08-29.webp",
+      "sha256": "cca308c2493617af5699e08a6aae799ec3eaeccf711014910b72bc5d013887b9",
+      "bytes": 237926
+    },
+    {
       "date": "2026-08-27",
       "filename": "2026-08-27.webp",
       "sha256": "9cde116d545cd89a0ceb9001461e83209887d7497805fe7d1da7d2df30a07d50",
