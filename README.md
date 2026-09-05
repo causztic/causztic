@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2737aa528b70c2aaa611903ae14" alt="万有引力" /><figcaption align="center"><a href="https://open.spotify.com/track/6fBwcOGIBvWMrLhNKYbJa6" target="_blank">万有引力</a> by HACHI</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2737d8d6b3519a88faf96c84dc2" alt="Mint for Two" /><figcaption align="center"><a href="https://open.spotify.com/track/05ahuYOq45w60KxwQ9S9IR" target="_blank">Mint for Two</a> by redraw</figcaption></figure>
