@@ -1,2 +1,2 @@
 Your typical Github profiles are boring, so here's a song recommendation.
-<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b2737d8d6b3519a88faf96c84dc2" alt="Mint for Two" /><figcaption align="center"><a href="https://open.spotify.com/track/05ahuYOq45w60KxwQ9S9IR" target="_blank">Mint for Two</a> by redraw</figcaption></figure>
+<figure><img width="300" height="300" src="https://i.scdn.co/image/ab67616d0000b27385870b05b46186592ab80a31" alt="愛の小さな歌" /><figcaption align="center"><a href="https://open.spotify.com/track/4Wy608HFquXPR07e1Ou6jk" target="_blank">愛の小さな歌</a> by Moona Hoshinova</figcaption></figure>
